@@ -78,6 +78,11 @@ button {
   transition: background-color 0.3s ease;
 }
 
+.work-btn {
+  text-decoration: none;
+  color: white;
+}
+
 #skills {
   padding: 60px 20px;
 }
